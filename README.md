@@ -17,7 +17,7 @@
 
 <div>
 
-  <a href="https://github.com/PallaviSrivastavaa">
+  <a href="[https://github.com/PallaviSrivastavaa](https://github.com/PallaviSrivastavaa/PallaviSrivastavaa/edit/main/README.md)">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PallaviSrivastavaa&show_icons=true&theme=radical&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PallaviSrivastavaa&layout=compact&langs_count=7&theme=radical"/>
 
