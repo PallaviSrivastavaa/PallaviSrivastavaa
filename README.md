@@ -11,7 +11,7 @@
 
   
 
- - 🔭 I’m currently working on Student Database Management System
+ - 🔭 I’m currently working on Contact App development
  - 🌱 I’m currently learning JavaScript & Python
  - 👀 I’m looking to collaborate on Javascript Projects
 
