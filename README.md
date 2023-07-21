@@ -11,9 +11,9 @@
 
   
 
- - 🔭 I’m currently working on Contact App development
- - 🌱 I’m currently learning JavaScript & Python
- - 👀 I’m looking to collaborate on Javascript Projects
+ - 🔭 I’m currently working on React Blog website
+ - 🌱 I’m currently learning JavaScript & React
+ - 👀 I’m looking to collaborate on React Projects
 
 <div>
 
