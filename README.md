@@ -11,9 +11,9 @@
 
   
 
- - 🔭 I’m currently working on React Blog website
- - 🌱 I’m currently learning JavaScript & React
- - 👀 I’m looking to collaborate on React Projects
+ - 🔭 Currently interning as a data engineer
+ - 🌱 learning pyspark 
+
 
 <div>
 
