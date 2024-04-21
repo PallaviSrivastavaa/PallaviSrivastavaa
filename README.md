@@ -11,7 +11,6 @@
 
 
   
-
  - 🔭 Currently interning as a data engineer
  - 🌱 learning pyspark 
 
